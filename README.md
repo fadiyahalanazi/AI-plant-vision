@@ -15,7 +15,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 
 # AI Plant Vision
-
+https://huggingface.co/spaces/fadiyahalanazi/AI-plant-vision
 ## 🌿 Overview
 
 AI Plant Vision is a Gradio-based web application that allows users to identify plants from images and retrieve detailed information about them in either English or Arabic. The system leverages a zero-shot image classification model and a text generation model to provide accurate plant identification and rich informational content.
